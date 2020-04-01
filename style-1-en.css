@@ -12,3 +12,17 @@ body {
     font-weight: bold;
     word-spacing: 5px;
 }
+#HOME, #PERSONAL-DATA-POLICY, #CONTACT-AND-LINKS, #ABOUT-ME {
+    margin-right: 30px;
+}
+#search-bar {
+    position: absolute;
+    right: 20%;
+    margin-top: 30px;
+}
+input {
+    color: #dedede;
+    width: 250px;
+    height: 40px;
+    font-size: medium;
+}
