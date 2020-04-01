@@ -1,1 +1,1 @@
-# Komtext.nu
+This was my homepage as a freelance translator. Komtext was my business name.# Komtext.nu
