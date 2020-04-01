@@ -1,0 +1,14 @@
+body {
+    font-family: times;
+}
+#navbar-top {
+    text-align: center;
+    margin-top: 40px;
+}
+.navbar-top {
+    list-style-type: none;
+    display: inline-block;
+    font-size: medium;
+    font-weight: bold;
+    word-spacing: 5px;
+}
