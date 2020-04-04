@@ -26,3 +26,28 @@ input {
     height: 40px;
     font-size: medium;
 }
+#Komtext, #Translation-and-proofreading {
+    text-align: center;
+    font-weight: normal;
+}
+#Komtext {
+    margin-top: 200px;
+    font-size: 40px;
+}
+#Translation-and-proofreading {
+    font-size: medium;
+}
+img {
+    position: relative;
+    left: 25%;
+}
+#navbar-languages {
+    position: absolute;
+    right: 25%;
+    margin-top: -400px;
+}
+.navbar-languages {
+    font-size: medium;
+    font-weight: normal;
+    display: inline-block;
+}
