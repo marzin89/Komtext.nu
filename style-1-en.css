@@ -32,7 +32,7 @@ input {
 }
 #Komtext {
     margin-top: 200px;
-    font-size: 40px;
+    font-size: 35px;
 }
 #Translation-and-proofreading {
     font-size: medium;
@@ -50,4 +50,25 @@ img {
     font-size: medium;
     font-weight: normal;
     display: inline-block;
+}
+#Home {
+    position: relative;
+    left: 40%;
+    margin-top: 5px;
+    font-size: 25px;
+    font-weight: normal;
+}
+h3 {
+    font-size: 16px;
+}
+#text {
+    text-align: left;
+    position: relative;
+    left: 20%;
+}
+p, li {
+    line-height: 2em;
+}
+h3 {
+    line-height: 2.5em;
 }
