@@ -1,0 +1,76 @@
+body {
+    font-family: times;
+}
+#navbar-top {
+    text-align: center;
+    margin-top: 40px;
+}
+.navbar-top {
+    list-style-type: none;
+    display: inline-block;
+    font-size: medium;
+    font-weight: bold;
+    word-spacing: 5px;
+}
+#HOME, #PERSONAL-DATA-POLICY, #CONTACT-AND-LINKS, #ABOUT-ME {
+    margin-right: 30px;
+}
+#search-bar {
+    position: absolute;
+    right: 20%;
+    margin-top: 30px;
+}
+input {
+    color: #dedede;
+    width: 250px;
+    height: 40px;
+    font-size: medium;
+}
+#Komtext, #Translation-and-proofreading {
+    text-align: center;
+    font-weight: normal;
+}
+#Komtext {
+    margin-top: 200px;
+    font-size: 35px;
+    text-decoration: none;
+    color: black;
+}
+#Translation-and-proofreading {
+    font-size: medium;
+}
+img {
+    position: relative;
+    left: 25%;
+}
+#navbar-languages {
+    position: absolute;
+    right: 25%;
+    margin-top: -400px;
+}
+.navbar-languages {
+    font-size: medium;
+    font-weight: normal;
+    display: inline-block;
+}
+#Home {
+    position: relative;
+    left: 40%;
+    margin-top: 5px;
+    font-size: 25px;
+    font-weight: normal;
+}
+h3 {
+    font-size: 16px;
+}
+#text {
+    text-align: left;
+    position: relative;
+    left: 20%;
+}
+p, li {
+    line-height: 2em;
+}
+h3 {
+    line-height: 2.5em;
+}
