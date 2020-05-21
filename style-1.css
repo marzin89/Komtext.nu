@@ -53,6 +53,15 @@ img {
     font-weight: normal;
     display: inline-block;
 }
+#Svenska::before {
+    content: url("SE-Sweden-Flag-icon.png");
+}
+#English::before {
+    content: url("GB-United-Kingdom-Flag-icon.png");
+}
+#Deutsch::before {
+    content: url("DE-Germany-Flag-icon.png");
+}
 #Home {
     position: relative;
     left: 40%;
